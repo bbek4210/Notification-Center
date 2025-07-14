@@ -27,4 +27,4 @@ Used **Zustand** for simplicity + scalability:
 
 All architectural answers and justifications are provided in the handwritten notes.
 
-📎 See handwritten notes: [design.jfif](./design.jfif) ,[design1.jfif]
+📎 See handwritten notes: [design.jfif](./design.jfif) ,[design1.jfif] (./design1.jfif)
